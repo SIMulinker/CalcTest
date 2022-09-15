@@ -1,0 +1,4 @@
+public enum STATus
+{
+	IDLE, CHECKLOW, NOPARSE, NOMATH, ARAB, ROMAN, ERROR
+}
